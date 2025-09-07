@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-//! 集成测试模块，测试常见的部署错误场景
+//! Integration test module for testing common deployment error scenarios
 
 use crate::common::{CheckDetail, CheckResult, CheckStatus};
 use crate::error;
