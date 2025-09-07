@@ -12,6 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-//! 测试模块
+//! Test module
 
 pub mod integration_tests;
