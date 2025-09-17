@@ -11,7 +11,9 @@
 // limitations under the License.
 
 mod datanode;
+mod error;
 mod frontend;
+#[allow(dead_code)]
 mod metasrv;
 
 use clap::{Parser, Subcommand};
